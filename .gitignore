@@ -1,0 +1,4 @@
+node_modules/
+.attach_pid*
+project.json
+.suitecloud-*

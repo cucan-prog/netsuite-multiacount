@@ -1,0 +1,20 @@
+<suitelet scriptid="customscript_imr_inv21_sl">
+  <name>IMR - Inventario SS2.1 - SL</name>
+  <scriptfile>[/SuiteScripts/IMR_Inventario_SS21/imr_inv_sl.js]</scriptfile>
+  <description>Lanza el inventario de migración a SuiteScript 2.1 y muestra los resultados.</description>
+  <isinactive>F</isinactive>
+  <notifyowner>F</notifyowner>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_imr_inv21_sl">
+      <allemployees>F</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>F</allroles>
+      <audslctrole>ADMINISTRATOR</audslctrole>
+      <isdeployed>T</isdeployed>
+      <isonline>F</isonline>
+      <loglevel>ERROR</loglevel>
+      <status>RELEASED</status>
+      <title>IMR - Inventario SS2.1 - SL</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</suitelet>

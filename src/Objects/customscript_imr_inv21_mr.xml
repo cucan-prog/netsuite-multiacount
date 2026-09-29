@@ -1,0 +1,15 @@
+<mapreducescript scriptid="customscript_imr_inv21_mr">
+  <name>IMR - Inventario SS2.1 - MR</name>
+  <scriptfile>[/SuiteScripts/IMR_Inventario_SS21/imr_inv_mr.js]</scriptfile>
+  <description>Inventario de scripts 1.0/2.0/2.x fuera de bundles de IMR y estimación de migración a 2.1. Solo lectura.</description>
+  <isinactive>F</isinactive>
+  <notifyowner>T</notifyowner>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_imr_inv21_mr">
+      <isdeployed>T</isdeployed>
+      <loglevel>AUDIT</loglevel>
+      <status>NOTSCHEDULED</status>
+      <title>IMR - Inventario SS2.1 - MR</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</mapreducescript>

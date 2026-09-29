@@ -1,0 +1,8 @@
+<deploy>
+  <files>
+    <path>~/FileCabinet/SuiteScripts/IMR_Inventario_SS21/*</path>
+  </files>
+  <objects>
+    <path>~/Objects/*</path>
+  </objects>
+</deploy>
