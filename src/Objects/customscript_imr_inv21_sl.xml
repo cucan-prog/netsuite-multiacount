@@ -7,7 +7,6 @@
   <scriptdeployments>
     <scriptdeployment scriptid="customdeploy_imr_inv21_sl">
       <allemployees>F</allemployees>
-      <allpartners>F</allpartners>
       <allroles>F</allroles>
       <audslctrole>ADMINISTRATOR</audslctrole>
       <isdeployed>T</isdeployed>
