@@ -1,0 +1,168 @@
+bundle_id,nombre,version,tipo,bundle_id_publicado,cuenta_origen,ultima_actualizacion
+38964,IMR - Impresión de Pólizas,6.0.2,publicado,,Desarrollo IMR,24/02/2025
+38967,IMR - F.E - SmarterWeb,10.11,publicado,,Desarrollo IMR,08/01/2024
+41800,IMR - Plan de Trabajo,1.0,publicado,,Desarrollo IMR,13/08/2014
+41801,IMR - Tipo de Cambio BM - DOF,4.0.1.2,publicado,,Desarrollo IMR,07/05/2026
+41802,IMR - Impresión de Cheques,5.0,publicado,,Desarrollo IMR,10/10/2014
+41803,IMR - Impresión de Ajuste de Inv.,2.1,publicado,,Desarrollo IMR,13/04/2026
+41804,IMR - Múltiples Pagos,3.0,publicado,,Desarrollo IMR,13/01/2016
+41809,IMR - Importe en Letra,1.0,publicado,,Desarrollo IMR,12/05/2015
+41816,IMR - Pedimentos de Importación,3.1.1.1,publicado,,Desarrollo IMR,24/10/2024
+44728,IMR - Viáticos,1.0,publicado,,Desarrollo IMR,27/11/2014
+45507,IMR - Anticipos de Cliente,1.0,publicado,,Desarrollo IMR,22/06/2017
+45801,IMR - Carga de Ajuste de Inventario,1.0,publicado,,Desarrollo IMR,06/09/2015
+87336,IMR - Reclasificación Cambiara & IVA,5.0.4.9,publicado,,Desarrollo IMR,06/07/2026
+90049,IMR - Integración DHL,1.0,publicado,,Desarrollo IMR,09/09/2015
+105382,IMR - Libs,1.1.3.1,publicado,,Desarrollo IMR,06/05/2026
+105486,IMR - Factura Consolidada,1.0,publicado,,Desarrollo IMR,24/01/2017
+155030,Presupuesto,1.0,publicado,,Desarrollo IMR,15/12/2016
+155031,Programa mas Puntos,,publicado,,Desarrollo IMR,15/12/2016
+155468,IMR - Generador de Coladas,1.0,publicado,,Desarrollo IMR,21/12/2016
+170093,IMR - Conciliación Masiva,1.0.5,publicado,,Desarrollo IMR,19/04/2017
+170315,IMR - Pago a Proveedores,1.0,publicado,,Desarrollo IMR,28/03/2017
+193078,IMR - Detalle de Inventario KITs,1.0.0,publicado,,Desarrollo IMR,16/02/2018
+197280,IMR - Anticipos Proveedor,1.0,publicado,,Desarrollo IMR,15/08/2018
+207479,IMR Facturación Electrónica Mexicana,1.8.0.0.21,publicado,,Desarrollo IMR,04/08/2026
+210487,IMR - Asignacion Automatica Pedimentos,1.3.1,publicado,,Desarrollo IMR,29/04/2022
+224361,IMR Addenda - Amazon,,publicado,,Desarrollo IMR,18/01/2018
+237953,IMR - Portal de Cliente Avanzado,1.0.4,publicado,,Desarrollo IMR,20/03/2025
+241173,IMR - Modules,1.0,publicado,,Desarrollo IMR,08/01/2024
+243670,IMR - F.E - Retenciones,2.0.1,publicado,,Desarrollo IMR,07/05/2026
+245148,IMR - Importación CFDI Proveedor,1.0,publicado,,Desarrollo IMR,26/07/2018
+246332,IMR - Fracciones Arancelarias,1.0,publicado,,Desarrollo IMR,07/08/2018
+248696,IMR - Portal de Proveedores Avanzado,1.0.1.0,publicado,,Desarrollo IMR,05/09/2024
+248882,IMR - Token de Autentificación IMR,1.0,publicado,,Desarrollo IMR,30/08/2018
+253381,IMR - PDM: Pago en Diferente Moneda,1.2,publicado,,Desarrollo IMR,05/10/2018
+253888,PDM - Registros personalizados,1.0,publicado,,Desarrollo IMR,10/10/2018
+256374,IMR - Actualización de Cancelación FE,1.0,publicado,,Desarrollo IMR,31/10/2018
+258075,IMR - Impacto Plz,,publicado,,Desarrollo IMR,14/11/2018
+259597,IMR_PORTALCLIENTEFE,,publicado,,Desarrollo IMR,05/12/2018
+260743,IMR - Solicitud Viaticos PP,1.1,publicado,,Desarrollo IMR,09/05/2025
+267410,IMR - FE_FF,1,publicado,,Desarrollo IMR,23/07/2024
+268135,IMR - FE_LIBS,1.1.1,publicado,,Desarrollo IMR,07/06/2022
+279904,IMR - FE_Global & Consolidada (FFG33),1.2.2,publicado,,Desarrollo IMR,23/09/2026
+282738,IMR - Fix Descuentos FE,1,publicado,,Desarrollo IMR,20/05/2019
+284932,IMR - Impuestos,,publicado,,Desarrollo IMR,10/06/2019
+285871,IMR DIOT Mexicana,1.4.1.6.5,publicado,,Desarrollo IMR,21/07/2026
+286637,IMR Contabilidad Electrónica Mexicana,8.8.2.4,publicado,,Desarrollo IMR,10/08/2026
+287342,IMR - Codigos agrupadores CE,1.0,publicado,,Desarrollo IMR,27/06/2019
+287974,IMR - Layout Banamex,1.0,publicado,,Desarrollo IMR,28/11/2022
+289929,IMR Libs 2.0,1.0.0.3.1,publicado,,Desarrollo IMR,18/06/2026
+290579,IMR - Reporte de IVA,,publicado,,Desarrollo IMR,05/11/2019
+299727,Zentax by IMR,2.02,publicado,,Desarrollo IMR,29/06/2026
+303422,IMR - Crear Pólizas XML Pagadas,1.0,publicado,,Desarrollo IMR,24/10/2019
+305079,IMR - F.E - Timbrado Automatico,1.0.1,publicado,,Desarrollo IMR,07/11/2019
+307935,IMR - Pedimentos Importación FIX,1.0,publicado,,Desarrollo IMR,23/11/2019
+310784,IMR - Addendas JSON,1.0.2,publicado,,Desarrollo IMR,12/06/2026
+313674,IMR - Fix FE_Global,1,publicado,,Desarrollo IMR,23/04/2025
+318431,IMR -Config Layout proveedores record,1.0,publicado,,Desarrollo IMR,10/02/2020
+318449,IMR - Activos_ReporteDepreciacion,1.1,publicado,,Desarrollo IMR,28/05/2024
+320651,IMR - FE_FIX_Validador v2,1.0,publicado,,Desarrollo IMR,25/02/2020
+321544,IMR - Pedimentos de Importación 2.0,1.1.15,publicado,,Desarrollo IMR,12/07/2024
+322133,IMR - Folio Contpaq,1.0,publicado,,Desarrollo IMR,05/03/2020
+325373,IMR - Dividir folio y serie,1.0,publicado,,Desarrollo IMR,27/03/2020
+334418,IMR - Arrendamiento,0.9.1.5,publicado,,Desarrollo IMR,29/04/2021
+337884,IMR Timbrado al guardar,1.0.1,publicado,,Desarrollo IMR,02/02/2022
+342077,IMR - GET INPC,0.9.0.1,publicado,,Desarrollo IMR,20/07/2020
+346560,IMR - Eliminar saldos pequeños,1.0,publicado,,Desarrollo IMR,26/07/2024
+347333,IMR - API almer,1,publicado,,Desarrollo IMR,27/01/2021
+348378,IMR - Imprimir Cheques,1.0,publicado,,Desarrollo IMR,02/09/2020
+350626,IMR - Crear cheques de viaticos,1.0,publicado,,Desarrollo IMR,18/09/2020
+363194,Layout Netcash y Banamex,1.0,publicado,,Desarrollo IMR,10/12/2020
+363595,pase consolidacion global,,publicado,,Desarrollo IMR,11/12/2020
+366077,Corte de caja Zoku,1.0,publicado,,Desarrollo IMR,28/12/2020
+369749,IMR: Impresion de poliza v2,1.0.0.2.1,publicado,,Desarrollo IMR,18/08/2026
+373859,fix portal,,publicado,,Desarrollo IMR,17/02/2021
+376160,IMR - Fix - Documento Relacionado,,publicado,,Desarrollo IMR,03/03/2021
+378853,IMR Layout BBVA 2021,1.1.0,publicado,,Desarrollo IMR,19/03/2021
+385035,IMR - Armado de rutas,,publicado,,Desarrollo IMR,28/04/2021
+386850,IMR roles custom,,publicado,,Desarrollo IMR,10/05/2021
+388370,IMR apartado RH,1,publicado,,Desarrollo IMR,20/05/2021
+410634,IMR - Generar Poliza C.E.,1.0,publicado,,Desarrollo IMR,28/10/2021
+411959,IMR - Tarjetas de KPI y Scorecards,1,publicado,,Desarrollo IMR,08/11/2021
+415179,IMR - Validate Form Subir F.E.,,publicado,,Desarrollo IMR,02/12/2021
+418035,IMR - Punto de Venta POS,1.0,publicado,,Desarrollo IMR,09/01/2024
+419304,Cancelacion facturacion moderna 2022,1.0.1,publicado,,Desarrollo IMR,26/08/2022
+421128,Complemento liverpool,1.0,publicado,,Desarrollo IMR,21/01/2022
+427690,FE Global,2.1.1,publicado,,Desarrollo IMR,08/05/2024
+431434,IMR - PP_MOD_OP_UPDATE,1.01,publicado,,Desarrollo IMR,05/04/2022
+437010,IMR F.E. 4.0,,publicado,,Desarrollo IMR,19/05/2022
+438030,Workbeat - Connector,1.0.11,publicado,,Desarrollo IMR,12/09/2022
+440724,Payment Mirror,1.0.5,publicado,,Desarrollo IMR,21/06/2022
+442027,PDF - Orden Compra - KF,1.0.6,publicado,,Desarrollo IMR,18/11/2022
+442304,Factura Consolidada,1.0.7,publicado,,Desarrollo IMR,01/02/2024
+443640,IMR - Pantalla Subir F.E.,1.0,publicado,,Desarrollo IMR,11/07/2022
+446623,IMR - Set ExtraDataFromTralix,0.5,publicado,,Desarrollo IMR,02/08/2022
+447224,Workbeat - Connector - NS,1.0.11,publicado,,Desarrollo IMR,10/01/2023
+447378,Monex Connection,1.9,publicado,,Desarrollo IMR,11/01/2024
+447777,FIX_CORE_FE_DATA,1.0.1.4.1.10,publicado,,Desarrollo IMR,24/09/2026
+451044,IMR - FORM Journal Detalle C.E.,,publicado,,Desarrollo IMR,20/09/2022
+453537,F.E. Validate XML - FORM ST 4_0,,publicado,,Desarrollo IMR,27/10/2022
+457063,Bundle Distroller F.E. Workflows,,publicado,,Desarrollo IMR,24/10/2022
+457104,Bundle Bid G -Actualizacion,1.0,publicado,,Desarrollo IMR,24/10/2022
+458279,IMR - Presupuesto Funciones Adicionales,1.0.11,publicado,,Desarrollo IMR,01/07/2025
+458814,IMR - Aprobacion del presupuesto,1.0.0,publicado,,Desarrollo IMR,06/11/2022
+460187,Header layout,1.0,publicado,,Desarrollo IMR,16/11/2022
+464785,Campo Budget Period,1.0,publicado,,Desarrollo IMR,23/12/2022
+464872,FIX - ES - BUDGET CUSTOM,1.1,publicado,,Desarrollo IMR,27/12/2022
+464882,IMR - Configurador Bancos,1.45,publicado,,Desarrollo IMR,04/08/2025
+470260,EXPORTAR SAP,1.0,publicado,,Desarrollo IMR,07/02/2023
+475604,IMR Modules Config JSON,1.0,publicado,,Desarrollo IMR,21/03/2023
+479057,CDC|Automatización complemento de pago,1.0.13,publicado,,Desarrollo IMR,26/04/2023
+480350,IMR - C.E. PLZ Comprobantes,1.0,publicado,,Desarrollo IMR,02/02/2024
+480736,IMR - Entity SuiteTax 69-B,1.0.2,publicado,,Desarrollo IMR,17/09/2026
+495761,Factura Global,2.0,publicado,,Desarrollo IMR,01/09/2023
+497141,IMR Logs Data Definiciones,1,publicado,,Desarrollo IMR,11/01/2024
+501538,IMR - Reportes Contables,1.0,publicado,,Desarrollo IMR,18/10/2023
+502594,pase de campo CartaPorte IMR,,publicado,,Desarrollo IMR,27/10/2023
+505549,IMR - Fix Carta Porte,1.0,publicado,,Desarrollo IMR,28/12/2023
+509056,IMR CARTA PORTE 30,1.0.1.2.2,publicado,,Desarrollo IMR,24/07/2026
+509285,IMR - FE_SF_ST_PROFAC_CANCELAR v3.3,1.0,publicado,,Desarrollo IMR,21/12/2023
+510779,Fix - Factura Consolidada - Cloe,1.0,publicado,,Desarrollo IMR,04/01/2024
+515067,Cancelación Masiva,1.0,publicado,,Desarrollo IMR,07/02/2024
+519283,IMR - FE_SF_ST_PROFAC_CANCELAR 40,1.0,publicado,,Desarrollo IMR,14/03/2024
+519881,IMR:FacturaGlobalLines Update,1.3,publicado,,Desarrollo IMR,22/03/2024
+522979,IMR_CORE_FE,0.1.3,publicado,,Desarrollo IMR,17/04/2024
+527476,workbeat descarga manual,1.1,publicado,,Desarrollo IMR,28/05/2024
+533878,STP - COMPENSACION - CLIENTE PROVEEDOR,1.10,publicado,,Desarrollo IMR,13/08/2024
+534607,crz.fix.workbeat,1.0,publicado,,Desarrollo IMR,31/07/2024
+540875,fix-premier-addenda-city,1.1,publicado,,Desarrollo IMR,27/09/2024
+545759,Fix - Pedimento Manual CreditMemo,1.0,publicado,,Desarrollo IMR,11/11/2024
+545899,Fix Pedimento Gonpal,1.0,publicado,,Desarrollo IMR,12/11/2024
+546163,IMR | Catálogo de Bancos,1.0,publicado,,Desarrollo IMR,14/11/2024
+546756,PDf Fix,1.4,publicado,,Desarrollo IMR,21/11/2024
+547817,Pedimento Generar Records,1.0,publicado,,Desarrollo IMR,02/12/2024
+548702,fix_IMR - PI - Transacciones - FV,1.4,publicado,,Desarrollo IMR,10/12/2024
+549886,Fix - Factura Consolidada,1.6,publicado,,Desarrollo IMR,05/05/2025
+549900,FIX PDF DIARIO,1.0,publicado,,Desarrollo IMR,18/12/2024
+551666,Reporte de Balanza Comprobacion Excel,1.4,publicado,,Desarrollo IMR,07/01/2025
+552022,FIX- IMR - FACTURAGLOBAL - ARCHIVO .js,1.3,publicado,,Desarrollo IMR,15/01/2025
+553465,IMR - Imp. Póliza - UE - Update - Vejar,1.0,publicado,,Desarrollo IMR,21/01/2025
+556063,IMR_ScheduledScript,1.5,publicado,,Desarrollo IMR,14/02/2025
+559770,IMR Estado de Cuenta Proveedor,1.2,publicado,,Desarrollo IMR,31/03/2025
+560538,Zentax - Conciliación Bancaria,1.0,publicado,,Desarrollo IMR,04/06/2025
+568271,IMR | Arrendamiento,1.0,publicado,,Desarrollo IMR,16/06/2025
+568944,IMR - Conciliador IMR,1.02,publicado,,Desarrollo IMR,05/03/2026
+570901,IMR|IMPORTAR INFORME DE GASTOS|BUNDLE,1.0,publicado,,Desarrollo IMR,04/07/2025
+572287,IMR |Reglas de Aprobación,1.0,publicado,,Desarrollo IMR,24/07/2025
+574281,Custom Record Config Importar CSV Mapeo,1.0,publicado,,Desarrollo IMR,08/08/2025
+575337,RolZentax,,publicado,,Desarrollo IMR,20/08/2025
+576208,Configuración Factura Global Automatica,1.0,publicado,,Desarrollo IMR,29/08/2025
+584434,FIX_DATOS_FE,1.0,publicado,,Desarrollo IMR,25/06/2026
+589542,FIX_DATOS_Regimen,1.0,publicado,,Desarrollo IMR,08/01/2026
+591199,IMR - Portal de auto facturación 2.0,2.0,publicado,,Desarrollo IMR,26/01/2026
+594845,FIX_CORE_CE_DATA,1.0,publicado,,Desarrollo IMR,04/03/2026
+701361,IMR Amazon Sync,1.0.1.2,publicado,,Desarrollo IMR,03/09/2026
+701374,IMR Meli integration,1.1.2.1,publicado,,Desarrollo IMR,24/09/2026
+704444,IMR - PORTAL DE PROVEEDORES 2.0,2.0,publicado,,Desarrollo IMR,10/07/2026
+27137,IMR - Impresión de Pólizas,,origen_copia,38964,TSTDRV938959,
+27777,IMR - F.E - SmarterWeb,,origen_copia,38967,TSTDRV938959,
+37620,IMR - Plan de Trabajo,,origen_copia,41800,TSTDRV938959,
+35507,IMR - Tipo de Cambio BM - DOF,,origen_copia,41801,TSTDRV938959,
+35991,IMR - Impresión de Cheques,,origen_copia,41802,TSTDRV938959,
+36944,IMR - Impresión de Ajuste de Inv.,,origen_copia,41803,TSTDRV938959,
+29869,IMR - Múltiples Pagos,,origen_copia,41804,TSTDRV938959,
+41805,IMR - Importe en Letra,,origen_copia,41809,TSTDRV938959,
+41815,IMR - Pedimentos de Importación,,origen_copia,41816,TSTDRV938959,
+276231,IMR - FE_Global & Consolidada (FFG33),,origen_copia,279904,TSTDRV1280287,
+284931,IMR - Impuestos,,origen_copia,284932,TSTDRV1280287,
